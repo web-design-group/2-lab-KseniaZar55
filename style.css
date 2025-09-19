@@ -15,7 +15,8 @@
         #popa{
             width: 300px;
             border-radius: 40px;
-            margin-bottom: 190px;
+            margin-bottom: 90px;
+            margin-left: 500px;
         }
         
         header {
@@ -38,7 +39,7 @@
             width: 200px;
             float: left;
             margin-left: 180px;
-            clear: left;
+            clear: right;
         }
         .text { 
         margin-top: 130px;
@@ -75,6 +76,8 @@
     
         .image2 img {
             border-radius: 50px; 
+            margin-left: 40px;
+            float: right;
             
         }
         .image3 img {
@@ -151,3 +154,4 @@
     main{
 			display: block !important;
 	}
+       
