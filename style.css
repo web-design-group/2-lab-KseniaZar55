@@ -13,9 +13,9 @@
             padding: 20px;
         }
         #popa{
-            width: 2200px;
+            width: 300px;
             border-radius: 40px;
-            float: left
+            margin-bottom: 190px;
         }
         
         header {
@@ -35,7 +35,7 @@
             font-size: 20px;
             line-height: 1.5;
             margin-bottom: 70px;
-            width: 70%;
+            width: 200px;
             float: left;
             margin-left: 180px;
             clear: left;
@@ -82,9 +82,7 @@
             height: 100%;
             object-fit: cover;
             margin-left: 200px;
-            border-radius: 50px;
-            float: left
-            
+            border-radius: 50px;      
         }
         
         .tariffs h4, .expositions h4 {
@@ -103,7 +101,6 @@
             border-radius: 11px;
             border-right: 30px;
             width: 340px;
-            clear: right;
         }
         
         .tariff-name {
@@ -150,3 +147,7 @@
         .nav-button:hover {
             background: #0077b6;
         }
+    #popa3{float: right;}
+    main{
+			display: block !important;
+	}
